@@ -1,0 +1,17 @@
+Act as a QA Automation Engineer.
+
+Based on my project, generate a comprehensive test plan including:
+
+1. Unit test cases for:
+   - GitHub Reader
+   - Extraction Engine
+   - Document Generator
+   - Confluence Publisher
+
+2. Integration test cases for the full pipeline
+
+3. Edge case test scenarios
+
+4. Mocking strategy for GitHub and Confluence APIs
+
+Generate output as test-plan.md
