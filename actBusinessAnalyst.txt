@@ -1,0 +1,20 @@
+Act as a Business Analyst helping in SDLC.
+
+I am working on a project called:
+"Automated Documentation Sync"
+
+System objective:
+
+Read repository data from GitHub
+Extract application details like name, tech stack, dependencies
+Generate structured documentation
+Sync the documentation to Confluence
+Step 1:
+Ask me relevant clarifying questions to refine requirements.
+
+Then generate:
+
+Functional Requirements
+Non-Functional Requirements
+Edge cases
+Finally, create a complete requirements.md document.
