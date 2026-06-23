@@ -1,0 +1,12 @@
+Act as a Tech Lead.
+
+Based on the architecture.md and design-review.md, create a detailed implementation plan.
+
+Include:
+
+Task breakdown by component
+Task dependencies
+Priority order
+Blocked tasks
+Suggested development sequence
+Generate impl-plan.md
