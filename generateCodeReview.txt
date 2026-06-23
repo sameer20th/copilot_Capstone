@@ -1,0 +1,11 @@
+Act as a Senior Code Reviewer.
+
+Review my project for:
+
+Code correctness
+Error handling
+Security risks
+Code structure and readability
+DRY principle violations
+Edge case handling
+Provide detailed feedback and improvement suggestions.
