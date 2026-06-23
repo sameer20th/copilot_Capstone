@@ -1,0 +1,16 @@
+Act as a Senior Software Architect.
+
+Review my architecture.md for the Automated Documentation Sync system.
+
+Identify:
+
+Design risks
+Gaps or missing considerations
+Scalability concerns
+Security weaknesses
+Improvements
+Then generate a design-review.md document with:
+
+Findings
+Recommendations
+Final design decisions
