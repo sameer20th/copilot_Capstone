@@ -1,0 +1,11 @@
+Act as a Software Engineer.
+
+Based on my implementation plan, generate a simplified MVP implementation for:
+
+GitHub repository reader
+Basic extraction logic (name, tech stack, dependencies)
+Documentation generator (Markdown format)
+Mock Confluence publisher
+Use Node.js or Python with clean modular structure.
+
+Keep it simple and runnable.
